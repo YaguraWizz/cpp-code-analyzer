@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ParserCode.h.obj",
+            "outputs": [
+                "D:\\Dev\\temp_project\\UNIVER_LABS\\CSBP\\CppCodeAnalyzer\\CppCodeAnalyzer\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Dev\\temp_project\\UNIVER_LABS\\CSBP\\CppCodeAnalyzer\\CppCodeAnalyzer\\x64\\Debug\\ParserCode.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ParserCode.h",
+                    "source-path": "d:\\dev\\temp_project\\univer_labs\\csbp\\cppcodeanalyzer\\cppcodeanalyzer\\parsercode.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
